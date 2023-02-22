@@ -8,6 +8,7 @@ function App() {
       <div className="App-header">
         <h1>Push Notification with Firebase.</h1>
       </div>
+      
       <Notification />
     </div>
   );
